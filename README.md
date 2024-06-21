@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Firza Fernanda</h1>
+<h1 align="center">Muhammad Firza Fernanda</h1>
 <h3 align="center">I don't know how to code; I'm having an existential crisis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfirzafernanda17&label=Profile%20views&color=0e75b6&style=plastic" alt="muhammadfirzafernanda17" /> </p>
