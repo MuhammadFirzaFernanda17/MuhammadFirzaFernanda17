@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Firza Fernanda</h1>
 <h3 align="center">I don't know how to code; I'm having an existential crisis.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfirzafernanda17&label=Profile%20views&color=0e75b6&style=plastic" alt="muhammadfirzafernanda17" /> </p>
+[![](https://visitcount.itsvg.in/api?id=MuhammadFirzaFernanda17&icon=3&color=10)](https://visitcount.itsvg.in)<br><br>
 💫 About Me:<br><br>
 🎓 I’m currently studying at **STMIK Widya Cipta Dharma**<br><br>🌱 I’m currently learning **React and Vue**<br><br>📫 How to reach me: **firzafernanda17@gmail.com**
 
@@ -26,6 +26,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MuhammadFirzaFernanda17&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MuhammadFirzaFernanda17&icon=3&color=10)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
