@@ -1,65 +1,37 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=MuhammadFirzaFernanda17&icon=3&color=10" />
-
-<h1 align="center">Muhammad Firza Fernanda</h1>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">My name is Muhammad Firza Fernanda</h1>
 <h3 align="center">I don't know how to code; I'm having an existential crisis.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadFirzaFernanda17&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadFirzaFernanda17" /> </p>
 
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadFirzaFernanda17&theme=radical" alt="MuhammadFirzaFernanda17" /></a> </p>
 
-<div align="center">
-    🎓 I’m currently studying at **STMIK Widya Cipta Dharma**<br/>
-    🌱 I’m currently learning **React and Vue**<br/>
-    📫 How to reach me: **firzafernanda17@gmail.com**<br/>
-</div>
+- 🎓 I’m currently studying at **STMIK Widya Cipta Dharma**
+- 🌱 I’m currently learning **Web Development**
 
-<br/>
+- 📫 How to reach me **firzafernanda17@gmail.com**
 
-<div align="center">
-  <a href="https://instagram.com/benarinipiers17" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-firza-fernanda-84abb3221/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-</div>
+<div> <a href="https://www.linkedin.com/in/muhammad-firza-fernanda-84abb3221" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/MuhammadFirzaFernanda17" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/firzafernanda17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:firzafernanda17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<hr/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</p>
 
-<h2 align="center">💻 Tech Stack 💻</h2>
-<br/>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFirzaFernanda17&layout=compact&theme=nightowl" alt=MuhammadFirzaFernanda17 />
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadFirzaFernanda17&show_icons=true&locale=en&theme=nightowl" alt="MuhammadFirzaFernanda17" /></p>
 
-<br/>
-<hr/>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFirzaFernanda17&theme=nightowl" alt="MuhammadFirzaFernanda17" /></p>
 
-<div align="center">
-  <h2>📊 GitHub Stats 📊</h2>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFirzaFernanda17&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFirzaFernanda17&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFirzaFernanda17&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
 
-<hr/>
-
-<div align="center">
-  <h2>🏆 GitHub Trophies 🏆</h2>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadFirzaFernanda17&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<hr/>
-
-<div align="center">
-  <h2>✍️ Random Dev Quote ✍️</h2>
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
